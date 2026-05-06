@@ -151,6 +151,10 @@ The project generates a regression graph showing:
 - Actual student data
 - Predicted regression line
 
+Example Output:
+
+<img width="800" height="500" alt="student_marks_prediction_output (1)" src="https://github.com/user-attachments/assets/542f67fb-76b2-471f-ba50-54b41ea2a948" />
+
 ---
 
 ## 📊 Model Evaluation
@@ -232,7 +236,7 @@ The project will:
 
 ## 👩‍💻 Author  
 **Pallavi Patil**  
-Aspiring Data Analyst | SQL | Excel | Power BI | Python | Tableau
+Aspiring Data Analyst | SQL | Excel | Power BI | Python | Tableau | ML
 
 ---
 
